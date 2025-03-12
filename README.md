@@ -11,6 +11,7 @@ This is a Spring Boot REST API for managing users, accounts, and transactions.
 - Exception handling with `NoDataFoundException`.
 - Swagger documentation enabled.
 - Logging using `@Slf4j`.
+- Junit test cases
 
 ---
 ## Technologies Used
@@ -86,6 +87,8 @@ After starting the server, access Swagger UI at:
 ```
 http://localhost:8080/swagger-ui/
 ```
+## Junit Test Cases
+Test cases added for unit testing
 
 
 ## Contributors
